@@ -1,1 +1,4 @@
 .venv
+.idea
+database.sqlite
+app/__pycache__
